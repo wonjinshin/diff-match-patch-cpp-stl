@@ -1,8 +1,7 @@
 diff-match-patch-cpp-stl
 ========================
 
-[![Build Status](https://travis-ci.org/wonjinshin/diff-match-patch-cpp-stl.png)](https://travis-ci.org/wonjinshin/diff-match-patch-cpp-stl)
-[abc
+[![Build Status](https://travis-ci.org/brianLim122/diff-match-patch-cpp-stl.png)](https://travis-ci.org/brianLim122/diff-match-patch-cpp-stl)
 
 C++ STL variant of https://code.google.com/p/google-diff-match-patch.
 
