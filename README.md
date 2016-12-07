@@ -2,7 +2,7 @@ diff-match-patch-cpp-stl
 ========================
 
 [![Build Status](https://travis-ci.org/wonjinshin/diff-match-patch-cpp-stl.png)](https://travis-ci.org/wonjinshin/diff-match-patch-cpp-stl)
-abc
+[abc
 
 C++ STL variant of https://code.google.com/p/google-diff-match-patch.
 
